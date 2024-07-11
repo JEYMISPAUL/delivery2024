@@ -1,0 +1,95 @@
+C:\Users\4dominic888\Documents\cosas\VisualStudio cosas\Delivery.Domain\bin\Debug\net7.0\Delivery.Domain.deps.json
+C:\Users\4dominic888\Documents\cosas\VisualStudio cosas\Delivery.Domain\bin\Debug\net7.0\Delivery.Domain.dll
+C:\Users\4dominic888\Documents\cosas\VisualStudio cosas\Delivery.Domain\bin\Debug\net7.0\Delivery.Domain.pdb
+C:\Users\4dominic888\Documents\cosas\VisualStudio cosas\Delivery.Domain\obj\Debug\net7.0\Delivery.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\4dominic888\Documents\cosas\VisualStudio cosas\Delivery.Domain\obj\Debug\net7.0\Delivery.Domain.AssemblyInfoInputs.cache
+C:\Users\4dominic888\Documents\cosas\VisualStudio cosas\Delivery.Domain\obj\Debug\net7.0\Delivery.Domain.AssemblyInfo.cs
+C:\Users\4dominic888\Documents\cosas\VisualStudio cosas\Delivery.Domain\obj\Debug\net7.0\Delivery.Domain.csproj.CoreCompileInputs.cache
+C:\Users\4dominic888\Documents\cosas\VisualStudio cosas\Delivery.Domain\obj\Debug\net7.0\Delivery.Domain.dll
+C:\Users\4dominic888\Documents\cosas\VisualStudio cosas\Delivery.Domain\obj\Debug\net7.0\refint\Delivery.Domain.dll
+C:\Users\4dominic888\Documents\cosas\VisualStudio cosas\Delivery.Domain\obj\Debug\net7.0\Delivery.Domain.pdb
+C:\Users\4dominic888\Documents\cosas\VisualStudio cosas\Delivery.Domain\obj\Debug\net7.0\ref\Delivery.Domain.dll
+C:\Users\4dominic888\Documents\cosas\VisualStudio cosas\Proyecto Delivery\Delivery.Domain\bin\Debug\net7.0\Delivery.Domain.deps.json
+C:\Users\4dominic888\Documents\cosas\VisualStudio cosas\Proyecto Delivery\Delivery.Domain\bin\Debug\net7.0\Delivery.Domain.runtimeconfig.json
+C:\Users\4dominic888\Documents\cosas\VisualStudio cosas\Proyecto Delivery\Delivery.Domain\bin\Debug\net7.0\Delivery.Domain.dll
+C:\Users\4dominic888\Documents\cosas\VisualStudio cosas\Proyecto Delivery\Delivery.Domain\bin\Debug\net7.0\Delivery.Domain.pdb
+C:\Users\4dominic888\Documents\cosas\VisualStudio cosas\Proyecto Delivery\Delivery.Domain\obj\Debug\net7.0\Delivery.Domain.csproj.AssemblyReference.cache
+C:\Users\4dominic888\Documents\cosas\VisualStudio cosas\Proyecto Delivery\Delivery.Domain\obj\Debug\net7.0\Delivery.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\4dominic888\Documents\cosas\VisualStudio cosas\Proyecto Delivery\Delivery.Domain\obj\Debug\net7.0\Delivery.Domain.AssemblyInfoInputs.cache
+C:\Users\4dominic888\Documents\cosas\VisualStudio cosas\Proyecto Delivery\Delivery.Domain\obj\Debug\net7.0\Delivery.Domain.AssemblyInfo.cs
+C:\Users\4dominic888\Documents\cosas\VisualStudio cosas\Proyecto Delivery\Delivery.Domain\obj\Debug\net7.0\Delivery.Domain.csproj.CoreCompileInputs.cache
+C:\Users\4dominic888\Documents\cosas\VisualStudio cosas\Proyecto Delivery\Delivery.Domain\obj\Debug\net7.0\Delivery.Domain.dll
+C:\Users\4dominic888\Documents\cosas\VisualStudio cosas\Proyecto Delivery\Delivery.Domain\obj\Debug\net7.0\refint\Delivery.Domain.dll
+C:\Users\4dominic888\Documents\cosas\VisualStudio cosas\Proyecto Delivery\Delivery.Domain\obj\Debug\net7.0\Delivery.Domain.pdb
+C:\Users\4dominic888\Documents\cosas\VisualStudio cosas\Proyecto Delivery\Delivery.Domain\obj\Debug\net7.0\Delivery.Domain.genruntimeconfig.cache
+C:\Users\4dominic888\Documents\cosas\VisualStudio cosas\Proyecto Delivery\Delivery.Domain\obj\Debug\net7.0\ref\Delivery.Domain.dll
+D:\Delivery borrar\Sistema-Web-Delivery\Delivery.Domain\bin\Debug\net7.0\Delivery.Domain.deps.json
+D:\Delivery borrar\Sistema-Web-Delivery\Delivery.Domain\bin\Debug\net7.0\Delivery.Domain.runtimeconfig.json
+D:\Delivery borrar\Sistema-Web-Delivery\Delivery.Domain\bin\Debug\net7.0\Delivery.Domain.dll
+D:\Delivery borrar\Sistema-Web-Delivery\Delivery.Domain\bin\Debug\net7.0\Delivery.Domain.pdb
+D:\Delivery borrar\Sistema-Web-Delivery\Delivery.Domain\obj\Debug\net7.0\Delivery.Domain.csproj.AssemblyReference.cache
+D:\Delivery borrar\Sistema-Web-Delivery\Delivery.Domain\obj\Debug\net7.0\Delivery.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Delivery borrar\Sistema-Web-Delivery\Delivery.Domain\obj\Debug\net7.0\Delivery.Domain.AssemblyInfoInputs.cache
+D:\Delivery borrar\Sistema-Web-Delivery\Delivery.Domain\obj\Debug\net7.0\Delivery.Domain.AssemblyInfo.cs
+D:\Delivery borrar\Sistema-Web-Delivery\Delivery.Domain\obj\Debug\net7.0\Delivery.Domain.csproj.CoreCompileInputs.cache
+D:\Delivery borrar\Sistema-Web-Delivery\Delivery.Domain\obj\Debug\net7.0\Delivery.Domain.dll
+D:\Delivery borrar\Sistema-Web-Delivery\Delivery.Domain\obj\Debug\net7.0\refint\Delivery.Domain.dll
+D:\Delivery borrar\Sistema-Web-Delivery\Delivery.Domain\obj\Debug\net7.0\Delivery.Domain.pdb
+D:\Delivery borrar\Sistema-Web-Delivery\Delivery.Domain\obj\Debug\net7.0\Delivery.Domain.genruntimeconfig.cache
+D:\Delivery borrar\Sistema-Web-Delivery\Delivery.Domain\obj\Debug\net7.0\ref\Delivery.Domain.dll
+D:\Sistema-Web-Delivery\Delivery.Domain\bin\Debug\net7.0\Delivery.Domain.deps.json
+D:\Sistema-Web-Delivery\Delivery.Domain\bin\Debug\net7.0\Delivery.Domain.runtimeconfig.json
+D:\Sistema-Web-Delivery\Delivery.Domain\bin\Debug\net7.0\Delivery.Domain.dll
+D:\Sistema-Web-Delivery\Delivery.Domain\bin\Debug\net7.0\Delivery.Domain.pdb
+D:\Sistema-Web-Delivery\Delivery.Domain\obj\Debug\net7.0\Delivery.Domain.csproj.AssemblyReference.cache
+D:\Sistema-Web-Delivery\Delivery.Domain\obj\Debug\net7.0\Delivery.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sistema-Web-Delivery\Delivery.Domain\obj\Debug\net7.0\Delivery.Domain.AssemblyInfoInputs.cache
+D:\Sistema-Web-Delivery\Delivery.Domain\obj\Debug\net7.0\Delivery.Domain.AssemblyInfo.cs
+D:\Sistema-Web-Delivery\Delivery.Domain\obj\Debug\net7.0\Delivery.Domain.csproj.CoreCompileInputs.cache
+D:\Sistema-Web-Delivery\Delivery.Domain\obj\Debug\net7.0\Delivery.Domain.dll
+D:\Sistema-Web-Delivery\Delivery.Domain\obj\Debug\net7.0\refint\Delivery.Domain.dll
+D:\Sistema-Web-Delivery\Delivery.Domain\obj\Debug\net7.0\Delivery.Domain.pdb
+D:\Sistema-Web-Delivery\Delivery.Domain\obj\Debug\net7.0\Delivery.Domain.genruntimeconfig.cache
+D:\Sistema-Web-Delivery\Delivery.Domain\obj\Debug\net7.0\ref\Delivery.Domain.dll
+C:\Users\ACER\Desktop\Pruebas\Sistema-Web-Delivery-master\Delivery.Domain\bin\Debug\net7.0\Delivery.Domain.deps.json
+C:\Users\ACER\Desktop\Pruebas\Sistema-Web-Delivery-master\Delivery.Domain\bin\Debug\net7.0\Delivery.Domain.runtimeconfig.json
+C:\Users\ACER\Desktop\Pruebas\Sistema-Web-Delivery-master\Delivery.Domain\bin\Debug\net7.0\Delivery.Domain.dll
+C:\Users\ACER\Desktop\Pruebas\Sistema-Web-Delivery-master\Delivery.Domain\bin\Debug\net7.0\Delivery.Domain.pdb
+C:\Users\ACER\Desktop\Pruebas\Sistema-Web-Delivery-master\Delivery.Domain\obj\Debug\net7.0\Delivery.Domain.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\Pruebas\Sistema-Web-Delivery-master\Delivery.Domain\obj\Debug\net7.0\Delivery.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\Pruebas\Sistema-Web-Delivery-master\Delivery.Domain\obj\Debug\net7.0\Delivery.Domain.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\Pruebas\Sistema-Web-Delivery-master\Delivery.Domain\obj\Debug\net7.0\Delivery.Domain.AssemblyInfo.cs
+C:\Users\ACER\Desktop\Pruebas\Sistema-Web-Delivery-master\Delivery.Domain\obj\Debug\net7.0\Delivery.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Pruebas\Sistema-Web-Delivery-master\Delivery.Domain\obj\Debug\net7.0\Delivery.Domain.dll
+C:\Users\ACER\Desktop\Pruebas\Sistema-Web-Delivery-master\Delivery.Domain\obj\Debug\net7.0\refint\Delivery.Domain.dll
+C:\Users\ACER\Desktop\Pruebas\Sistema-Web-Delivery-master\Delivery.Domain\obj\Debug\net7.0\Delivery.Domain.pdb
+C:\Users\ACER\Desktop\Pruebas\Sistema-Web-Delivery-master\Delivery.Domain\obj\Debug\net7.0\Delivery.Domain.genruntimeconfig.cache
+C:\Users\ACER\Desktop\Pruebas\Sistema-Web-Delivery-master\Delivery.Domain\obj\Debug\net7.0\ref\Delivery.Domain.dll
+C:\Users\Usuario\Desktop\upn9\tERCEROS\Sistema-Web-Delivery-master\Delivery.Domain\bin\Debug\net7.0\Delivery.Domain.deps.json
+C:\Users\Usuario\Desktop\upn9\tERCEROS\Sistema-Web-Delivery-master\Delivery.Domain\bin\Debug\net7.0\Delivery.Domain.runtimeconfig.json
+C:\Users\Usuario\Desktop\upn9\tERCEROS\Sistema-Web-Delivery-master\Delivery.Domain\bin\Debug\net7.0\Delivery.Domain.dll
+C:\Users\Usuario\Desktop\upn9\tERCEROS\Sistema-Web-Delivery-master\Delivery.Domain\bin\Debug\net7.0\Delivery.Domain.pdb
+C:\Users\Usuario\Desktop\upn9\tERCEROS\Sistema-Web-Delivery-master\Delivery.Domain\obj\Debug\net7.0\Delivery.Domain.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\upn9\tERCEROS\Sistema-Web-Delivery-master\Delivery.Domain\obj\Debug\net7.0\Delivery.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\upn9\tERCEROS\Sistema-Web-Delivery-master\Delivery.Domain\obj\Debug\net7.0\Delivery.Domain.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\upn9\tERCEROS\Sistema-Web-Delivery-master\Delivery.Domain\obj\Debug\net7.0\Delivery.Domain.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\upn9\tERCEROS\Sistema-Web-Delivery-master\Delivery.Domain\obj\Debug\net7.0\Delivery.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\upn9\tERCEROS\Sistema-Web-Delivery-master\Delivery.Domain\obj\Debug\net7.0\Delivery.Domain.dll
+C:\Users\Usuario\Desktop\upn9\tERCEROS\Sistema-Web-Delivery-master\Delivery.Domain\obj\Debug\net7.0\refint\Delivery.Domain.dll
+C:\Users\Usuario\Desktop\upn9\tERCEROS\Sistema-Web-Delivery-master\Delivery.Domain\obj\Debug\net7.0\Delivery.Domain.pdb
+C:\Users\Usuario\Desktop\upn9\tERCEROS\Sistema-Web-Delivery-master\Delivery.Domain\obj\Debug\net7.0\Delivery.Domain.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\upn9\tERCEROS\Sistema-Web-Delivery-master\Delivery.Domain\obj\Debug\net7.0\ref\Delivery.Domain.dll
+C:\Users\Jeymis Paul\Downloads\delivery\Sistema-Web-Delivery-master\Delivery.Domain\bin\Debug\net7.0\Delivery.Domain.deps.json
+C:\Users\Jeymis Paul\Downloads\delivery\Sistema-Web-Delivery-master\Delivery.Domain\bin\Debug\net7.0\Delivery.Domain.runtimeconfig.json
+C:\Users\Jeymis Paul\Downloads\delivery\Sistema-Web-Delivery-master\Delivery.Domain\bin\Debug\net7.0\Delivery.Domain.dll
+C:\Users\Jeymis Paul\Downloads\delivery\Sistema-Web-Delivery-master\Delivery.Domain\bin\Debug\net7.0\Delivery.Domain.pdb
+C:\Users\Jeymis Paul\Downloads\delivery\Sistema-Web-Delivery-master\Delivery.Domain\obj\Debug\net7.0\Delivery.Domain.csproj.AssemblyReference.cache
+C:\Users\Jeymis Paul\Downloads\delivery\Sistema-Web-Delivery-master\Delivery.Domain\obj\Debug\net7.0\Delivery.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeymis Paul\Downloads\delivery\Sistema-Web-Delivery-master\Delivery.Domain\obj\Debug\net7.0\Delivery.Domain.AssemblyInfoInputs.cache
+C:\Users\Jeymis Paul\Downloads\delivery\Sistema-Web-Delivery-master\Delivery.Domain\obj\Debug\net7.0\Delivery.Domain.AssemblyInfo.cs
+C:\Users\Jeymis Paul\Downloads\delivery\Sistema-Web-Delivery-master\Delivery.Domain\obj\Debug\net7.0\Delivery.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Jeymis Paul\Downloads\delivery\Sistema-Web-Delivery-master\Delivery.Domain\obj\Debug\net7.0\Delivery.Domain.dll
+C:\Users\Jeymis Paul\Downloads\delivery\Sistema-Web-Delivery-master\Delivery.Domain\obj\Debug\net7.0\refint\Delivery.Domain.dll
+C:\Users\Jeymis Paul\Downloads\delivery\Sistema-Web-Delivery-master\Delivery.Domain\obj\Debug\net7.0\Delivery.Domain.pdb
+C:\Users\Jeymis Paul\Downloads\delivery\Sistema-Web-Delivery-master\Delivery.Domain\obj\Debug\net7.0\Delivery.Domain.genruntimeconfig.cache
+C:\Users\Jeymis Paul\Downloads\delivery\Sistema-Web-Delivery-master\Delivery.Domain\obj\Debug\net7.0\ref\Delivery.Domain.dll
